@@ -10,10 +10,6 @@ Aspiring Data Analyst on 2-Month Bootcamp Journey 🚀
 - 🗃️ SQL (Queries, JOINs)
 - 📈 Power BI, Tableau, Alteryx (Week 3+)
 
-## 📁 Day 1 Progress
-- [ ] GitHub setup ✅
-- [ ] Excel basics
-- [ ] First sales dataset analysis
 
 ![Skills](https://skillicons.dev/icons?i=excel,python,sql,github)
 
