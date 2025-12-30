@@ -1,4 +1,4 @@
-# Excel Analytics Portfolio 🚀
+# Data Analytics Portfolio 🚀
 **Vandhana Rajesh** - 2 Month Data Analytics Journey
 
 ## 📊 Day 1: Superstore Pivot Analysis
