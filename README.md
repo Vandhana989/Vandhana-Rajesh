@@ -1,15 +1,19 @@
-# Hi, I'm Vandhana Rajesh! 👋
+# Excel Analytics Portfolio 🚀
+**Vandhana Rajesh** - 2 Month Data Analytics Journey
 
-Aspiring Data Analyst on 2-Month Bootcamp Journey 🚀
+## 📊 Day 1: Superstore Pivot Analysis
+[Day1-Superstore-Analysis.xlsx](Day1-Superstore-Analysis.xlsx)
+- 5 Pivot tables created
+- Regional sales breakdown
+- Category performance analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vandhana989&show_icons=true)
+## 📈 Day 2: Advanced SUMIFS + Charts
+[Day2-SUMIFS.xlsx](Day2-SUMIFS.xlsx)
+- **Tech West Sales: $30,621**
+- **Furniture Sales: $43,846**
+- **54 High-value orders (<$1000)**
+- 4 sheets: Clean→Raw→Pivots→SUMIFS
 
-## 🛠️ Currently Learning
-- 📊 Excel (Formulas, Pivots, VLOOKUP)
-- 🐍 Python (Pandas, Jupyter)
-- 🗃️ SQL (Queries, JOINs)
-- 📈 Power BI, Tableau, Alteryx (Week 3+)
+## 🎯 Next: Day 3 PivotCharts (Tomorrow!)
 
-
-![Skills](https://skillicons.dev/icons?i=excel,python,sql,github)
 
