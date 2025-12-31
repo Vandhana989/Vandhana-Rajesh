@@ -14,11 +14,13 @@
 - **54 High-value orders (<$1000)**
 - 4 sheets: Clean→Raw→Pivots→SUMIFS
 
-📊 Day 3: Pivot Charts + Slicers
-Day3-Pivot-Charts-Slicers.xlsx
--Dynamic pivot charts (sales trends by Category/Region)
--Interactive slicers (Region/Category/Segment filters)
--High-value orders analysis ($10K+ threshold)
+## 📊 Day 3: Pivot Charts + Slicers
+[Day3-Pivot-Charts-Slicers.xlsx](Day3-Pivot-Charts-Slicers.xlsx)
+- Dynamic pivot charts (sales trends by Category/Region)
+- **Interactive slicers** (Region/Category/Segment filters)  
+- High-value orders analysis ($10K+ threshold)
+- 4 sheets: Clean→Raw→Pivots→Charts
+
 
 ## 🎯 Next: Day 4 INDEX-MATCH Lookups (Tomorrow!)
 
