@@ -1,11 +1,14 @@
 # Data Analytics Portfolio 🚀
 **Vandhana Rajesh** - 2 Month Data Analytics Journey
 
-## 📊 Day 1: Superstore Pivot Analysis
-[Day1-Superstore-Analysis.xlsx](Day1-Superstore-Analysis.xlsx)
-- 5 Pivot tables created
-- Regional sales breakdown
-- Category performance analysis
+
+## 💰 Day 1: 5 Advanced Finance Pivots
+[Day1-Finance-Advanced-Pivots.xlsx]
+- Category×Region sales/profit matrix
+- Hierarchy Region→Segment→Category
+- Monthly profit trends
+- Discount band profitability analysis
+
 
 ## 📈 Day 2: Advanced SUMIFS + Charts
 [Day2-SUMIFS.xlsx](Day2-SUMIFS.xlsx)
