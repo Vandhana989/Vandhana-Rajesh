@@ -11,7 +11,7 @@
 
 
 ## 📊 Day 2: SUMIFS/COUNTIFS Finance
-[Day2-Finance-Metrics.xlsx][file:182]
+[Day2-Finance-Metrics.xlsx]
 - West Furniture Sales: ₹71,705
 - High-profit orders: 42  
 - High-discount orders: 1,694
