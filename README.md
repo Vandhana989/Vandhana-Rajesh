@@ -26,6 +26,11 @@
 
 
 
-## 🎯 Next: Day 4 INDEX-MATCH Lookups (Tomorrow!)
+## Day 4: INDEX-MATCH Finance Analysis
+- **File**: Day4-INDEX-MATCH-Finance.xlsx [download]
+- **Key Insights**:
+  - West Furniture Sales: $71,705 [file:226]
+  - Product lookup for 20 IDs across 9,800 rows
+
 
 
