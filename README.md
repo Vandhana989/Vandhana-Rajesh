@@ -26,7 +26,7 @@
 
 
 
-## Day 4: INDEX-MATCH Finance Analysis
+## 💹 Day 4: INDEX-MATCH Finance Analysis
 - **File**: Day4-INDEX-MATCH-Finance.xlsx [download]
 - **Key Insights**:
   - West Furniture Sales: $71,705 [file:226]
