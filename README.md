@@ -18,12 +18,12 @@
 - Furniture margin: 1.4%
 
 
-## 📊 Day 3: Pivot Charts + Slicers
-[Day3-Pivot-Charts-Slicers.xlsx](Day3-Pivot-Charts-Slicers.xlsx)
-- Dynamic pivot charts (sales trends by Category/Region)
-- **Interactive slicers** (Region/Category/Segment filters)  
-- High-value orders analysis ($10K+ threshold)
-- 4 sheets: Clean→Raw→Pivots→Charts
+## 🎛️ Day 3: Live Slicer Dashboard
+[Day3-Interactive-Dashboard.xlsx][file:182]
+- 3 interactive charts (Region/Category/Monthly)
+- Region slicer filters everything
+- Recruiter demo: Click West → Instant analysis
+
 
 
 ## 🎯 Next: Day 4 INDEX-MATCH Lookups (Tomorrow!)
