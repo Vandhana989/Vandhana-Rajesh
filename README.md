@@ -40,7 +40,6 @@
 - Summary table showing Furniture Sales, Profit, and Margin by Region  
 - Highlighted loss-making regions (negative margins) for quick attention  
 - GETPIVOTDATA-driven report table that auto-updates when slicers change  
-- Portfolio-ready dashboard layout with clear title, KPIs, and chart
 
 
 
